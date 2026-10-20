@@ -1,0 +1,13 @@
+node_modules/
+client/node_modules/
+client/dist/
+.env
+.env.*
+!.env.example
+server/db/*.db
+server/db/*.sqlite
+server/db/*.sqlite3
+server/uploads/*
+!server/uploads/.gitkeep
+.DS_Store
+Thumbs.db
